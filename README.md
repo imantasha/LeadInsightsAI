@@ -76,7 +76,7 @@ leadsight-ai/
 ├── enrich.py         # WHOIS and LinkedIn scraping
 ├── utils.py          # Scoring, deduplication, helpers
 ├── requirements.txt  # Python dependencies
-├── sample_input.csv  # Sample domains
+
 
  Sample Input Format
 
